@@ -8,7 +8,7 @@
 
 ### Work Experience
 
-<img align="left" height="90px" width="90px" alt="Loadsmart" src="https://play-lh.googleusercontent.com/UKk_8KoDj4mnandzya-b2qzfZuy9K7alPBZ0qDsH9U_1P9BlH4oATy2GBBlpGbXKecr4"/>
+<img align="left" height="95px" width="95px" alt="Loadsmart" src="https://avatars.githubusercontent.com/u/10535096?s=280&v=4"/>
 
 **Software Engineer, Back-End** \
 [**Loadsmart**](https://loadsmart.com/) • Full-time Remote \
@@ -17,7 +17,7 @@ Tech Stack: `Python`, `Django`, `React`
 
 <br/>
 
-<img align="left" height="90px" width="90px" alt="Compass" src="https://media.licdn.com/dms/image/C4D0BAQHr82VdoHECSg/company-logo_200_200/0/1650283345676?e=2147483647&v=beta&t=1DL-YrRaIM4OsqL-b9OKHplYywzGASe1nSZbFoNeIN8"/>
+<img align="left" height="90px" width="90px" alt="Compass" src="https://cdn.pluo.jobs/media/logos/2021-11-05_19-02_logo.png"/>
 
 **Software Architect** \
 [**Compass UOL**](https://compass.uol/en/home/) • Full-time Remote \
