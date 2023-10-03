@@ -20,7 +20,7 @@ Tech Stack: `Python`, `Django`, `React`
 <img align="left" height="90px" width="90px" alt="Compass" src="https://media.licdn.com/dms/image/C4D0BAQHr82VdoHECSg/company-logo_200_200/0/1650283345676?e=2147483647&v=beta&t=1DL-YrRaIM4OsqL-b9OKHplYywzGASe1nSZbFoNeIN8"/>
 
 **Software Architect** \
-[**Compass UOL**](https://rocketseat.com.br/) • Full-time Remote \
+[**Compass UOL**](https://compass.uol/en/home/) • Full-time Remote \
 Porto Alegre, RS, Brazil\
 Tech Stack:  `JavaScript`, `TypeScript`, `Node`, `Vue.js`
 <br/>
